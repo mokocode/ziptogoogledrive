@@ -1,5 +1,7 @@
 Install the requirements using pip install -f requirements.txt
 
+One is for single file 'file_to_drive.py' the other is for a folder ' folder_to_drive.py'
+
 Before using the script, replace the placeholder values:
 
 LOCAL_FILE_PATH: The path to the file you want to zip and upload
